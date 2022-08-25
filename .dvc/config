@@ -2,3 +2,5 @@
     remote = storage
 ['remote "storage"']
     url = https://remote.dvc.org/get-started
+['remote "second-storage"']
+    url = https://remote.second.org/storage
