@@ -4,7 +4,7 @@
     url = https://remote.dvc.org/get-started
 ['remote "second-storage"']
     url = https://remote.second.org/storage
-['remote "s3-bucket"']
-    url = https://s3.amazonaws.com
+['remote "weird-remote"']
+    url = s3amazonawscom
 ['remote "s3-bucket-with-s3-uri"']
     url = s3://example-bucket/path/to/object
