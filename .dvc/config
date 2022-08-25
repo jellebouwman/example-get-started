@@ -6,3 +6,5 @@
     url = https://remote.second.org/storage
 ['remote "s3-bucket"']
     url = s3.amazonaws.com
+['remote "s3-bucket-with-s3-uri"']
+    url = s3://example-bucket/path/to/object
