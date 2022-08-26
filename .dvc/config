@@ -4,7 +4,7 @@
     url = https://remote.dvc.org/get-started
 ['remote "storage"']
     url = https://remote.dvc.org/get-started
-['remote "second-storage"']
+['remote "the-second-storage"']
     url = https://remote.second.org/storage
 ['remote "weird-remote"']
     url = s3amazonawscom
