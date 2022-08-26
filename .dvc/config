@@ -2,8 +2,6 @@
     remote = storage
 ['remote "storage"']
     url = https://remote.dvc.org/get-started
-['remote "storage"']
-    url = https://remote.dvc.org/get-started
 ['remote "the-second-storage"']
     url = https://remote.second.org/storage
 ['remote "weird-remote"']
