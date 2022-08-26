@@ -8,7 +8,5 @@
     url = https://remote.second.org/storage
 ['remote "weird-remote"']
     url = s3amazonawscom
-['remote "s3-bucket-with-s3-uri"']
-    url = s3://example-bucket/path/to/object
 ['remote "my-gd-remote"']
     url = gdrive://my-drive
