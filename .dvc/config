@@ -1,10 +1,5 @@
 [core]
-    remote = storage
-['remote "storage"']
-    url = https://remote.dvc.org/get-started
-['remote "the-second-storage"']
-    url = https://remote.second.org/storage
-['remote "weird-remote"']
-    url = s3amazonawscom
-['remote "gdrive one"']
-    url = gdrive://my-drive
+['remote "production"']
+    url = s3://dvc-temp/ivan/test-multiple-remotes
+['remote "sandbox"']
+    url = s3://dvc-sandbox-temp/ivan/test-multiple-remotes
