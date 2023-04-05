@@ -11,3 +11,6 @@ train:
   n_est: 50
   min_split: 0.01
 
+dummy:
+  foo: 1
+
